@@ -1,9 +1,0 @@
-anulando todo
-dare to close a litte
-<<<<<<< HEAD
-comunicate con mama y papagit stat
-=======
-imaginate dos contra uno
-reunion con Alisita
->>>>>>> origin/funcion_a
-
